@@ -1,0 +1,4 @@
+repository "Jogo da Navinha/Jogo da Navinha@4674133106811@cloud"
+  path "/"
+    br "/main"
+    co "/main"
